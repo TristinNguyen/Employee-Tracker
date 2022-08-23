@@ -9,7 +9,7 @@ Allows user to check jobs, departments, names, and lists all from a database.
 
 
   ## Video Walkthrough
-  [Video Example](https://drive.google.com/file/d/1QCzWoaJYWWbQvperTpMZz422nWfcUTaY/view)
+  [Video Example](https://drive.google.com/file/d/1Afe_KfUR9orSmjGkPoVdHKwgX_-vDKdf/view)
 
 
   
